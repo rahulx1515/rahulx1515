@@ -8,17 +8,19 @@
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
+
 - 🎓 BTech CSE Student  
 - 💻 Passionate about Machine Learning & AI  
 - 🤖 Exploring intelligent systems and data science  
 - 🚀 Love building real-world tech solutions  
 
----
+<br>
 
-## 🧠 Languages
+<h2>🧠 Languages</h2>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
@@ -26,11 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" />
 </p>
 
----
+<br>
 
-## ⚙️ Tech Stack
+<h2>⚙️ Tech Stack</h2>
 
-### 🌐 Frontend
+<h3>🌐 Frontend</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
@@ -38,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
 </p>
 
-### 🤖 AI / ML Tools
+<h3>🤖 AI / ML Tools</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
@@ -46,7 +48,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
 </p>
 
-### 🛠 Tools
+<h3>🛠 Tools</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.simpleicons.org/github/ffffff" width="50"/>
@@ -54,25 +56,28 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="50"/>
 </p>
 
----
+<br>
 
-## 🚀 My Vision
+<h2>🚀 My Vision</h2>
+
 - Designing intelligent Machine Learning systems  
 - Building scalable and robust architectures  
 - Moving beyond automation toward adaptive systems  
 - Enabling data-driven decision intelligence  
 - Transforming data into actionable intelligence  
 
----
+<br>
 
-## 🧭 Philosophy
+<h2>🧭 Philosophy</h2>
+
 Technology should not just automate tasks —  
 it should enhance intelligence and empower better decisions.
 
----
+<br>
 
-## 🌐 Connect With Me
-<p>
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rahulx1515">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
