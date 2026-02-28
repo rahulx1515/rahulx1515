@@ -24,7 +24,6 @@
 ---
 
 ## 🛠 Tech Stack
-
 ### ⚡ Languages
 ![Python](https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-FF7139?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,28 +38,26 @@
 ![Git](https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
+---
 
 ## 🚀 My Vision
-
 <p align="center">
-
 🔹 Designing intelligent Machine Learning systems  
 🔹 Building scalable and robust architectures  
 🔹 Moving beyond basic automation toward adaptive systems  
 🔹 Enabling data-driven decision intelligence  
-
 </p>
 
-## 🧭 Philosophy
+---
 
+## 🧭 Philosophy
 Technology should not just automate tasks —  
 it should enhance intelligence and empower better decisions.
 
+---
 
 ## 🌐 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rahulx1515)
-
 [![Email](https://img.shields.io/badge/Email-rathorerahul9050%40gmail.com-FF4C29?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathorerahul9050@gmail.com)
 
 <!--
