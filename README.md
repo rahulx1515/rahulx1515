@@ -2,11 +2,12 @@
 
 # Hi 👋 I'm Rahul
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Full+Stack+Developer;Building+Intelligent+Systems;I+Love+Innovation;Always+Learning+Always+Evolving" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ML+Enthusiast+%7C+Data+Science;Building+Intelligent+Systems;I+Love+Innovation;Always+Learning+Always+Evolving" />
 <br>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="550" />
+</p>
 
 </div>
 
@@ -53,14 +54,12 @@
 Technology should not just automate tasks —  
 it should enhance intelligence and empower better decisions.
 
-![Visitor Count](https://komarev.com/ghpvc/?rahulx1515=rahulx1515&color=blue)
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rahulx1515/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rahulx1515)
 
-[![Email](https://img.shields.io/badge/Email-shikharverma950%40gmail.com-FF4C29?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathorerahul9050@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-rathorerahul9050%40gmail.com-FF4C29?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathorerahul9050@gmail.com)
 
 <!--
 **rahulx1515/rahulx1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
