@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
+> “Innovation begins where automation ends.”
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=600&lines=I+Love+Innovation+🚀;Building+Intelligent+Systems;Machine+Learning+Enthusiast" />
 </h3>
@@ -36,18 +37,12 @@
 
 </p>
 
+## 🧭 Philosophy
 
-### 📊 GitHub Stats
+Technology should not just automate tasks —  
+it should enhance intelligence and empower better decisions.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulx1515&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulx1515&theme=radical" />
-</p>## Hi there 👋
-
----
+![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
 
 ## 🌐 Connect With Me
 
