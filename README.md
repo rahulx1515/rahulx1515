@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">I Love Innovation 🚀</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=600&lines=I+Love+Innovation+🚀;Building+Intelligent+Systems;Machine+Learning+Enthusiast" />
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
@@ -22,14 +24,16 @@
 - ⚛️ React (Learning)
 
 ---
----
 
-## 🎯 My Vision
+## 🚀 My Vision
 
 <p align="center">
-Designing intelligent and scalable Machine Learning systems
-that go beyond automation
-to enable adaptive, data-driven decision intelligence.
+
+🔹 Designing intelligent Machine Learning systems  
+🔹 Building scalable and robust architectures  
+🔹 Moving beyond basic automation toward adaptive systems  
+🔹 Enabling data-driven decision intelligence  
+
 </p>
 
 
