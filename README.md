@@ -7,7 +7,7 @@
 
 <p align="center">
   <p align="center">
-  <img src="https://media.tenor.com/_cUcIKEbrt4AAAAC/coding.gif" width="600" />
+  <div class="tenor-gif-embed" data-postid="10602112677214789124" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-gif-10602112677214789124">Coding Sticker</a>from <a href="https://tenor.com/search/coding-stickers">Coding Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 </p>
 
