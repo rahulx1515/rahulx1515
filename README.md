@@ -4,7 +4,7 @@
 
 ### 🧠 AI/ML Enthusiast | 💡 Tech Explorer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ML+Enthusiast+%7C+Data+Science;Building+Intelligent+Systems;I+Love+Innovation;Always+Learning+Always+Evolving" width="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ML+Enthusiast+%7C+Data+Science;Building+Intelligent+Systems;I+Love+Innovation;Always+Learning+Always+Evolving" width="400"/>
 
 </div>
 
