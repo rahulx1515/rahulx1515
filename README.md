@@ -8,6 +8,7 @@
 
 </div>
 
+---
 
 ## 👨‍💻 About Me
 - 🎓 BTech CSE Student  
@@ -15,6 +16,7 @@
 - 🤖 Exploring intelligent systems and data science  
 - 🚀 Love building real-world tech solutions  
 
+---
 
 ## 🧠 Languages
 <p align="center">
@@ -24,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" />
 </p>
 
+---
 
 ## ⚙️ Tech Stack
 
@@ -51,7 +54,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="50"/>
 </p>
 
-
+---
 
 ## 🚀 My Vision
 - Designing intelligent Machine Learning systems  
@@ -60,16 +63,18 @@
 - Enabling data-driven decision intelligence  
 - Transforming data into actionable intelligence  
 
+---
+
 ## 🧭 Philosophy
 Technology should not just automate tasks —  
 it should enhance intelligence and empower better decisions.
 
-
+---
 
 ## 🌐 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/rahulx1515">
-    <img src="https://img.shields.io/badge/LinkedIn-CONNNECT-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <br><br>
   <a href="mailto:rathorerahul9050@gmail.com">
