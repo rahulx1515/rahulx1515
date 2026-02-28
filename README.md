@@ -72,7 +72,7 @@ it should enhance intelligence and empower better decisions.
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/rahulx1515">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
