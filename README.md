@@ -56,20 +56,14 @@ it should enhance intelligence and empower better decisions.
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rahulx1515)
-[![Email](https://img.shields.io/badge/Email-rathorerahul9050%40gmail.com-FF4C29?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathorerahul9050@gmail.com)
-
+<p>
+  <a href="https://www.linkedin.com/in/rahulx1515">
+    <img src="https://img.shields.io/badge/LinkedIn-rahulx1515-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  
+  <a href="mailto:rathorerahul9050@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rathorerahul9050@gmail.com-FF4C29?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <!--
 **rahulx1515/rahulx1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
