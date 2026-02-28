@@ -1,7 +1,8 @@
 <div align="center">
 
-# Hi 👋 I'm Rahul
-<h3 align="center">🚀 Full-Stack Developer | 🧠 AI/ML Enthusiast | 💡 Tech Explorer</h3>
+<h1>Hi 👋 I'm Rahul</h1>
+
+<h3>🧠 Machine Learning Enthusiast | 💡 Tech Explorer</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ML+Enthusiast+%7C+Data+Science;Building+Intelligent+Systems;I+Love+Innovation;Always+Learning+Always+Evolving" />
 
