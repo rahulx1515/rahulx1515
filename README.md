@@ -2,7 +2,7 @@
 <h3 align="center">I Love Innovation 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
 </p>
 
 ---
@@ -22,6 +22,16 @@
 - ⚛️ React (Learning)
 
 ---
+---
+
+## 🎯 My Vision
+
+<p align="center">
+Designing intelligent and scalable Machine Learning systems
+that go beyond automation
+to enable adaptive, data-driven decision intelligence.
+</p>
+
 
 ### 📊 GitHub Stats
 
