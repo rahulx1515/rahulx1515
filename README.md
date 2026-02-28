@@ -2,7 +2,7 @@
 
 <h1>Hi 👋 I'm Rahul</h1>
 
-<h3>🧠 AI/ML Enthusiast  💡 Tech Explorer</h3>
+<h3>🧠 AI/ML Enthusiast | 💡 Tech Explorer</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ML+Enthusiast+%7C+Data+Science;Building+Intelligent+Systems;I+Love+Innovation;Always+Learning+Always+Evolving" />
 
@@ -10,21 +10,20 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 BTech CSE Student at GLA University
-- 💻 ML Enthusiast
-- 🤖 Interested in AI & ML
-- 🚀 Love building real-world projects
+## 👨‍💻 About Me
+- 🎓 BTech CSE Student  
+- 💻 Passionate about Machine Learning & AI  
+- 🤖 Exploring intelligent systems and data science  
+- 🚀 Love building real-world tech solutions  
 
 ---
 
-## 🧠 Languages I Know
+## 🧠 Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" />
 </p>
 
 ---
@@ -37,11 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
 ### 🤖 AI / ML Tools
@@ -63,11 +57,11 @@
 ---
 
 ## 🚀 My Vision
-- 🔹 Designing intelligent Machine Learning systems  
-- 🔹 Building scalable and robust architectures  
-- 🔹 Moving beyond basic automation toward adaptive systems  
-- 🔹 Enabling data-driven decision intelligence  
-- 🔹 Transforming data into actionable intelligence through innovation    
+- Designing intelligent Machine Learning systems  
+- Building scalable and robust architectures  
+- Moving beyond automation toward adaptive systems  
+- Enabling data-driven decision intelligence  
+- Transforming data into actionable intelligence  
 
 ---
 
@@ -78,14 +72,12 @@ it should enhance intelligence and empower better decisions.
 ---
 
 ## 🌐 Connect With Me
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/rahulx1515">
-    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-rahulx1515-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <br><br>
   <a href="mailto:rathorerahul9050@gmail.com">
     <img src="https://img.shields.io/badge/Email-rathorerahul9050@gmail.com-FF4C29?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<!--
-**rahulx1515/rahulx1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
