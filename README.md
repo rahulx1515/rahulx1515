@@ -58,7 +58,7 @@ it should enhance intelligence and empower better decisions.
 ## 🌐 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/rahulx1515">
-    <img src="https://img.shields.io/badge/LinkedIn-rahulx1515-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <br><br>
   <a href="mailto:rathorerahul9050@gmail.com">
