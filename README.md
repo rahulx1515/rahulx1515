@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Rathore</h1>
+<h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">I Love Innovation 🚀</h3>
 
 <p align="center">
@@ -32,6 +32,20 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulx1515&theme=radical" />
 </p>## Hi there 👋
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahulx1515" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:rathorerahul9050@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <!--
 **rahulx1515/rahulx1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
