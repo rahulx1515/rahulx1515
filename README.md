@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-> “Innovation begins where automation ends.”
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=600&lines=I+Love+Innovation+🚀;Building+Intelligent+Systems;Machine+Learning+Enthusiast" />
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
+# Hi 👋 I'm Rahul
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Full+Stack+Developer;Building+Intelligent+Systems;I+Love+Innovation;Always+Learning+Always+Evolving" />
+
+<br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+
+</div>
 
 ---
 
@@ -18,13 +20,22 @@
 
 ---
 
-### 🛠️ Tech Stack
-- 💻 HTML, CSS, JavaScript
-- 🐍 Python, Java
-- 🗄️ MySQL
-- ⚛️ React (Learning)
+## 🛠 Tech Stack
 
----
+### ⚡ Languages
+![Python](https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FF7139?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-00F7FF?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FF4C29?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow)
+
+### ☁ Tools & Cloud
+![Git](https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+
 
 ## 🚀 My Vision
 
@@ -42,19 +53,14 @@
 Technology should not just automate tasks —  
 it should enhance intelligence and empower better decisions.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?rahulx1515=rahulx1515&color=blue)
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahulx1515" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:rathorerahul9050@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rahulx1515/)
+
+[![Email](https://img.shields.io/badge/Email-shikharverma950%40gmail.com-FF4C29?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathorerahul9050@gmail.com)
+
 
 <!--
 **rahulx1515/rahulx1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
