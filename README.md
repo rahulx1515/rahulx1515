@@ -41,12 +41,11 @@
 ---
 
 ## 🚀 My Vision
-<p align="center">
-🔹 Designing intelligent Machine Learning systems  
-🔹 Building scalable and robust architectures  
-🔹 Moving beyond basic automation toward adaptive systems  
-🔹 Enabling data-driven decision intelligence  
-</p>
+- 🔹 Designing intelligent Machine Learning systems  
+- 🔹 Building scalable and robust architectures  
+- 🔹 Moving beyond basic automation toward adaptive systems  
+- 🔹 Enabling data-driven decision intelligence  
+- 🔹 Transforming data into actionable intelligence through innovation    
 
 ---
 
