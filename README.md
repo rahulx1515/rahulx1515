@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Rahul Rathore 
+# Hi 👋 I'm Rahul 
 
 ### 🧠 AI/ML Enthusiast | 💡 Tech Explorer
 
